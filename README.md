@@ -1,2 +1,3 @@
 # Breast_cancer-detection-Model
 A model based on logistic regression that can classify malignant and benign tumor with a very high accuracy rate.
+Model is trained on a subset of UCI ML Breast Cancer Wisconsin (Diagnostic) dataset . It consists of 30 features and 569 training examples.The dataset is split twice into train and test data in the ratio of 15% and 20% respectively.The files Result.csv and Result2.csv contains the comparison between actual value and predicted value for 15% and 20% split respectively. For the 15% split , model gives an inpressing 100% accuracy, while for the later case it gives an accuracy of 96%. 
